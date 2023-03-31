@@ -1,0 +1,110 @@
+/* body {
+    font-size: 14px;
+    font-family: arial;
+    line-height: 23px;
+}
+
+#wrapper {
+    width: 960px;
+    margin: 0px auto;
+}
+
+#header {
+    text-align: center;
+    position: relative;
+}
+
+#footer {
+    background: #029ef3;
+}
+
+ul#main-menu {
+    text-align: center;
+    background: #029ef3;
+}
+
+ul#main-menu li {
+    display: inline-block
+}
+
+ul#main-menu li a {
+    padding: 8px 15px;
+    color: #fff;
+    display: block;
+}
+
+#content {
+    min-height: 600px;
+    padding: 20px 0px
+}
+
+#footer {
+    color: #fff;
+    text-align: center;
+    padding: 5px 0px;
+}
+
+#logo {
+    font-weight: bold;
+    font-size: 25px;
+    display: inline-block;
+    text-align: center;
+    padding: 20px 10px;
+    color: black;
+}
+
+#user-login {
+    position: absolute;
+    right: 10px;
+    top: 1px;
+} */
+
+.error {
+    color: red;
+    font-style: italic;
+}
+
+.success {
+    color: blue;
+    font-style: italic;
+}
+
+.error {
+    color: red;
+}
+
+#slider-thumb img {
+    margin-right: 5px;
+}
+
+.status-waiting {
+    color: #3860e6;
+}
+
+.status-approved {
+    color: #09ac31
+}
+
+.status-trash {
+    color: #e03131;
+}
+
+.track-stocking {
+    color: #09ac31;
+}
+
+.track-outOfStock {
+    color: #e03131;
+}
+
+.track-temporaryOut {
+    color: #e0a331;
+}
+
+.track-importingGoods {
+    color: #3860e6;
+}
+
+.list-slider-thumb div {
+    margin-right: 2%;
+}
